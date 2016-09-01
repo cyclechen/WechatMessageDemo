@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WechatDemo</string>
+    <string name="wx_start">微信启动</string>
+    <string name="wx_send">微信发送消息</string>
+    <string name="accessibility_description">autoreply_service</string>
+
+    <!--
+    A B C D E
+    F G H I J
+    K L M N O
+    P Q R S T
+    U V W X Y
+    Z
+    -->
+</resources>
